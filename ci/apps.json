@@ -2,6 +2,10 @@
   {
     "url": "https://github.com/Mehariwamlake/mail",
     "branch": "develop"
+  },
+  {
+    "url": "https://github.com/Tech-Vision-PLC/mail",
+    "branch": "develop"
   }
 ]
 
